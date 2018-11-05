@@ -27,5 +27,4 @@ def create_project_hash
 
   projects
 end
-binding.pry
-create_project_hash
+
